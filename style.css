@@ -48,39 +48,3 @@ body {
 .clickable-grid-item {
     cursor: pointer;
 }
-
-.bg-yellow {
-    background-color: #fff200;
-}
-
-.bg-light-green {
-    background-color: #15ff00;
-}
-
-.bg-red {
-    background-color: #ff0000;
-}
-
-.bg-dark-blue {
-    background-color: #001eff;
-}
-
-.bg-light-blue {
-    background-color: #00ffd9;
-}
-
-.bg-purple {
-    background-color: #fb00ff;
-}
-
-.bg-dark-green {
-    background-color: #167501;
-}
-
-.bg-orange {
-    background-color: #ff9a03;
-}
-
-.bg-white {
-    background-color: #ede1e1;
-}
